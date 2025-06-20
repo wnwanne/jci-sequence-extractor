@@ -141,15 +141,3 @@ The output JSON will look like:
   Try preprocessing PDFs to improve clarity (deskew, remove noise).
 * **Model/auth errors:**
   Ensure your Azure OpenAI deployment and API version are compatible.
-
----
-
-## **Contributing**
-
-Open a pull request or issue if you have improvements, bugfixes, or new feature ideas!
-
----
-
-## **License**
-
-MIT (or your preferred license)
